@@ -26,7 +26,7 @@
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/your-repo.git
+    git clone [https://github.com/yourusername/your-repo.git](https://github.com/Sathwik61/DocQuery.git)
     cd your-repo
     ```
 
